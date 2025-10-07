@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Forge",
+  "description": "An application that allows users to automatically generate videos from text and images using artificial intelligence. The system is designed to be scalable, modular, and optimized for user experience.",
+  "requestFramePermissions": []
+}
